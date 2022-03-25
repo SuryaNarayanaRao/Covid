@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color:black;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color:grey;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+.searchcountry
+{
+  margin-left: 35%;
+  margin-top: 5%;
+}
+.searchbox{
+  margin-left: 35%;
+  margin-top: 5%;
+}
+.container{
+  background-color: pink;
+  height: 100vh;
 }
